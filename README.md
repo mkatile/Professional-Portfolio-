@@ -13,3 +13,5 @@ When I click one of the links in the navigation the UI scrolls to the correspond
 When I am presented with the developer's first application that application's image should be larger in size than the others. When I click on the images of the applications I am then taken to that deployed application.
 
 When I resize the page or view the site on various screens and devices I am presented with a responsive layout that adapts to my viewport.
+
+Deployment [link](http://127.0.0.1:3000/index.html)
